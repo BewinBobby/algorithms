@@ -566,3 +566,16 @@ because there is a wall everywhere else on the second row.
 Solution:
 - [tests](tests/test__maze.py)
 - [implementation](src/maze.py)
+
+
+## Shift_Match
+
+Difficulty: Easy
+
+This problem was asked by Google.Given two strings A and B, return whether or not A can be shifted some number of times to get B.
+For example, if A is abcde and B is cdeab, return true. If A is abc and B is acb, return false.
+    
+
+Solution:
+- [tests](tests/test__shift_match.py)
+- [implementation](src/shift_match.py)
