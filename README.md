@@ -579,3 +579,15 @@ For example, if A is abcde and B is cdeab, return true. If A is abc and B is acb
 Solution:
 - [tests](tests/test__shift_match.py)
 - [implementation](src/shift_match.py)
+
+
+## Addup_For_K(Bygoogle)
+
+This problem was recently asked by Google.
+Difficulty: Easy
+
+Given a list of numbers and a number k, return whether any two numbers from thelist add up to k.For example, given [10, 15, 3, 7] and k of 17, return true since 10 + 7 is 17.Bonus: Can you do this in one pass?
+
+Solution:
+- [tests](tests/test__addup_for_k(bygoogle).py)
+- [implementation](src/addup_for_k(bygoogle).py)
